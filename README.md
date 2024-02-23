@@ -1,7 +1,7 @@
 ## Southern University of Science and Technology 
 # Discrete Mathematics (H) Class Project
 
-Project Files
+### Project Files
 
   --.zip the source code of the program
   
